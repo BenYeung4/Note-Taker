@@ -44,6 +44,9 @@ nol166 https://github.com/nol166
 The following are needed to run the test:
 install the inital information, npm init -y,npm install express, when complete, do node server.js
 
+the deployed url herokuapp:
+https://note-taker-app-1.herokuapp.com/
+
 ## License under the following:
 
 ### MISSING LICENSE BADGE & LINK
